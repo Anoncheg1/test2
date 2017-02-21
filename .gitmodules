@@ -1,0 +1,4 @@
+[submodule "test"]
+	path = test
+	url = git@github.com:Anoncheg1/test.git
+	branch = master
